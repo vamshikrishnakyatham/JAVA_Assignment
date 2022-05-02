@@ -1,4 +1,4 @@
-package sahithi.assignment.singleton;
+package Assignment5;
 
 public class Assignment5_2 {
     String str;

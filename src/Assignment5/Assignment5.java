@@ -1,4 +1,4 @@
-package sahithi.assignment.data;
+package Assignment5;
 
 public class Assignment5 {
     int i;//Takes the default value of int i.e.,'0'
