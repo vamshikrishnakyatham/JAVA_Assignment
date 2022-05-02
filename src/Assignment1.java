@@ -1,7 +1,7 @@
 import java.io.File;
 import java.util.Scanner;
 
-public class Demo {
+public class Assignment1 {
 
     private void findingaFile()
     {
@@ -40,7 +40,7 @@ public class Demo {
     }
     public static void main(String[] args){
         //object of Demo class is created
-        Demo obj = new Demo();
+        Assignment1 obj = new Assignment1();
         //calling the findFile()
         obj.findingaFile();
     }
